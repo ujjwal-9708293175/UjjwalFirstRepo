@@ -8,4 +8,4 @@ Shardha khapra
 Ujjjwal Rathore
 
 # what is Readme.md file
-Ye pure code ki dicription btati hai ki code kiss chij ke lia likha hua hai.
+Ye pure code ki description btati hai ki code kiss chij ke lia likha hua hai.
